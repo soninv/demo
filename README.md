@@ -1,4 +1,11 @@
 # GooodDemo
+     npm install
+     npm i bootstrap   
+     
+    3 liens:
+    http://localhost:4200/good
+    http://localhost:4200/bad
+    http://localhost:4200/color
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
