@@ -1,0 +1,26 @@
+.color-wrapper {
+    width: 50%;
+    label{
+        color: #9bbedd !important; 
+     }
+     small{
+        color: #fe2660 !important;
+     }
+     button{
+        margin-right: 15px !important;
+        border: none !important;
+
+     }
+     button.btn.green.btn-primary {
+        background: #008000c7;
+        color: red;
+    }
+    button.btn.red.btn-primary {
+        background: red;
+        color:green
+    }
+    button.btn.yellow.btn-primary {
+        background: orange;
+        color: white;
+    }
+}
